@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JunhaK95
+- 👀 I’m interested in all things related to data
+- 🌱 I’m currently working on improving my capabilities in Python, SQL and R
